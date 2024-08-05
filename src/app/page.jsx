@@ -36,7 +36,7 @@ const components = {
 const page = () => {
   return (
     <>
-    <PageMaker components={components}/>
+    <PageMaker />
     </>
   )
 }
